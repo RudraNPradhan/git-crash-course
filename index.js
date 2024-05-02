@@ -7,7 +7,3 @@ function sayName() {
     console.log('My name is  ' + name1)
 }
 
-const ad = 'sdsdsd'
-function isAbove18() {
-    return age >= 18
-}
